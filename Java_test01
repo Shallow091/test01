@@ -1,0 +1,6 @@
+class OnlyTest{
+	public static main(String[] args){
+		Systemprintln("文件内容");
+	}
+
+}
